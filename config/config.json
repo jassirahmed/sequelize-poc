@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Jassir@1234",
+    "database": "sequelize_prac_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
